@@ -1,0 +1,17 @@
+D:\GIT\fastfood_game\bin\Release\FastFood_Game.exe.config
+D:\GIT\fastfood_game\bin\Release\FastFood_Game.exe
+D:\GIT\fastfood_game\bin\Release\FastFood_Game.pdb
+D:\GIT\fastfood_game\bin\Release\nunit.framework.dll
+D:\GIT\fastfood_game\bin\Release\nunit.framework.xml
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.Properties.Resources.resources
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.csproj.GenerateResource.Cache
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.exe
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.pdb
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.csprojResolveAssemblyReference.cache
+D:\GIT\fastfood_game\bin\Release\Newtonsoft.Json.dll
+D:\GIT\fastfood_game\bin\Release\Newtonsoft.Json.xml
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.MainWindow.resources
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.RegisterNewHighscoreDialog.resources
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.ResultsWindow.resources
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.StartSplashWindow.resources
+D:\GIT\fastfood_game\obj\Release\FastFood_Game.WinSplashWindow.resources

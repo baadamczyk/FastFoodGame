@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FastFood_Game.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DogSpritePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GRAFIKI/spanielek.gif</Value>
+    </Setting>
+    <Setting Name="CatSpritePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">GRAFIKI/kotek_alt.gif</Value>
+    </Setting>
+    <Setting Name="HiScoreListPath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">hiscores.list</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
